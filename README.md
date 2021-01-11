@@ -1,3 +1,3 @@
 # HI, Welcome to my profile, Browse in moderation 👨🏼‍💻💻
 
-My name is Matheus Tonini, I'm 18 years old, i'm from Brazil 🇧🇷 at the moment i'm studying computer science. 👾
+My name is Matheus Tonini, I'm 18 years old, I'm from Brazil 🇧🇷 at the moment I'm studying computer science. 👾
