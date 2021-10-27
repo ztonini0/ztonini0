@@ -9,6 +9,5 @@ My name is Matheus Tonini, I'm 18 years old, I'm from Brazil 🇧🇷 at the mom
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="tonini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="right" alt="Rafa-yoda" src="https://i.imgur.com/xKqjrZU.gif">
 </div>
