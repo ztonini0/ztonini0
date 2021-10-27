@@ -4,8 +4,8 @@ My name is Matheus Tonini, I'm 18 years old, I'm from Brazil 🇧🇷 at the mom
 
 
   <a href="https://github.com/ztonin0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ztonini0&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztonini0&layout=compact&langs_count=7&theme=gruvbox_light"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ztonini0&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztonini0&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
 
 <div style="display: inline_block"><br>
